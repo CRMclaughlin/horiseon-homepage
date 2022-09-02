@@ -26,8 +26,13 @@ N/A
 
 N/A
 
+## Credits
+
+N/A
+
+## License
+
+N/A
+
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
-
-
-
