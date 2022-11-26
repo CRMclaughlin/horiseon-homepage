@@ -1,3 +1,4 @@
+/* global page attribute */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* style for nav bar */
 
 header {
     padding: 20px;
@@ -30,7 +33,7 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* style for list items */
  li {
     display: inline-block;
     margin-left: 25px;
@@ -42,11 +45,12 @@ a {
     text-decoration: none;
     display: inline-block;
 }
-
+/* font size for text in navbar */
 p {
     font-size: 16px;
 }
 
+/* adds style and margin to main section of body */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,12 +59,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* floats image left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* floats image right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -72,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* adds stylying to benefits container */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -98,7 +104,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* adds styling to each content block */
 .content-block {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,12 +117,12 @@ p {
 .content-block img {
     max-height: 200px;
 }
-
+/* margin and font size for each content block */
 .search-engine-optimization .online-reputation-management .social-media-marketing  h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
